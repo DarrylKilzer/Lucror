@@ -3,7 +3,6 @@ StandaloneWindows
 C:/Users/Darryl/Desktop/Applications/Unity/Editor/Data/Managed/UnityEngine.dll
 C:/Users/Darryl/Desktop/Applications/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
 C:/Users/Darryl/Desktop/Applications/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
-C:/Users/Darryl/Desktop/Applications/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
 C:/Users/Darryl/Desktop/Applications/Unity/Editor/Data/Managed/UnityEditor.dll
 C:/Users/Darryl/Desktop/Applications/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll
 C:/Users/Darryl/Desktop/Applications/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll
